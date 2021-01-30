@@ -16,6 +16,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+visible: true
 ---
 
 A full set of Manaweave Robes can be made and worn, these will reduce the cost of tools and Rods that consume Mana and make some Rods more powerful.
