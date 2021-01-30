@@ -33,4 +33,5 @@ Manasteel Tools work in a similar fashion as the Manasteel Armor but also have a
 * Place Torches from Inventory
 
 These tools are definitely better than their iron counterparts but not essential.
+
 A bow can also be made from Livingwood, just like the Manasteel tools/weapons the Livingwood Bow is slightly better than the standard bow and can also repair itself with Mana
