@@ -16,6 +16,9 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+media_order: 'Manaseer Monocle.jpg'
 ---
 
 The Manaseer Monocle is an essential Bauble slot item that will make working with Botania much easier and is essential. This simple tool will show you the range of each working flower.
+
+![](Manaseer%20Monocle.jpg)
