@@ -19,6 +19,10 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 published: true
+twitterenable: true
+twittershareimg: /the-basics/generating-transporting-mana/mana-splitter/mana%20splitter.jpg
+twittertitle: 'Botania - A Comprehensive Guide'
+twitterdescription: 'Most of the info on Botania can be found inside the game, in the Lexica Botania, the mod''s "documentation book". You can craft it pretty easily with a book and any type of sapling.'
 ---
 
 **What is this mod about?**
