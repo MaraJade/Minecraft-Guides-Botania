@@ -16,16 +16,24 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+media_order: Alfglass.jpg
 ---
 
 Although we can not go through the portal we are able to throw certain items in to get new items, this works just like the Mana Pool but instead of normal items such as iron and Ender Pearls you will throw in Mana infused items.
-Elementium Ingot
+
+### Elementium Ingot
 Throwing in 2 Mana Steel Ingots will get you 1 Elementium Ingot, these can be turned into Blocks as well as Nuggets.
-Dragonstone
+
+### Dragonstone
 Throwing in 1 Mana Diamond will give you 1 Dragonstone.
-Pixie Dust 
+
+### Pixie Dust 
 Throwing in 1 Mana Pearl will give you 1 Pixie Dust.
-Dreamwood
+
+### Dreamwood
 Throwing in 1 Living Wood will give you 1 Dream Wood, this can be crafted into sticks.
-Alfglass
+
+### Alfglass
 Throwing in 1 Mana Glass will give you one Alfglass. This glass glows and can be broken and reused.
+
+![](Alfglass.jpg)
