@@ -28,3 +28,4 @@ Right-clicking with a Wand of the Forest will change the mode of the torch. It h
 * Rotate: Turns 90 degrees clockwise.
 * Random: Chooses a random direction.
 
+![](Animated%20Torch.jpg)
