@@ -20,3 +20,4 @@ restaurant:
 
 Crafted using Terra Steel the Terra Blade is as strong as its Diamond counterpart but will also use Mana from your inventory to repair itself. It also has a chance to create a beam that will deal as much damage as a melee hit. 
 
+![](terra%20blade.jpg)
