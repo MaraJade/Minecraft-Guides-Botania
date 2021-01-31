@@ -26,17 +26,22 @@ The Manaseer Monocle is an essential Bauble slot item that will make working wit
 
 ![](Manaseer%20Monocle.jpg)
 
-Ring of Mana
+### Ring of Mana
 This ring should be one of the first rings you make, it will absorb Mana when thrown into a Mana Pool, the ring acts just like a Mana Tablet but can be worn in a Baubles slot
-Ring of Magnetization
+
+### Ring of Magnetization
 The Ring of Magnetization is also a Bauble slot that will pull items towards you within a 13x13 block range. The only items it will not pull are items that contain Mana such as Mana Tablets and it will also not pull Applied Energistics 2 crystal seeds.
-Ring of Correction
+
+### Ring of Correction
 When worn, the Ring of Correction will automatically switch tools within your hand that will be appropriate for the material, if you are mining sand with your pick it will switch out the pick to a shovel. This effect will only work with tools that can use Mana
-Invisibility Cloak
+
+### Invisibility Cloak
 This Bauble can be worn in the body slot and will render the wearer invisible as long as its fed Mana via a Mana Tablet or Ring.
-Floral Obedience Stick
+
+### Floral Obedience Stick
 With the Floral Obedience Stick in hand, Right-Clicking a Mana Spreader or a Mana Pool will bind all relevant nearby flowers to it.
-The Spectator
+
+### The Spectator
 When worn and holding a block, any chest containing the held block will show bubbles in the container, this will work from any item that has an inventory (furnace, chest minecarts), it will show dropped items and also mobs who are holding that item.
 
 ![](The%20Spectator.jpg)
