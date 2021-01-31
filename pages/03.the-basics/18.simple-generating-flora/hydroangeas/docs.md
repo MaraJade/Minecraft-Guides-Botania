@@ -22,3 +22,6 @@ This Mana generating flower will consume still water that is placed at the same 
 
 This flower will **EAT** any still water around it, so having infinite water sources around this flower is advisable.
 
+![](Hydrangea.jpg)
+
+Remember to link your flowers to a Mana Spreader!
