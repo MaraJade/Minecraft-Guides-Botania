@@ -19,3 +19,5 @@ restaurant:
 ---
 
 Mana Pylons work just like Book Shelves but only require 2 to get the enchanting table to level 30!
+
+![](Mana%20Pylon.jpg)
