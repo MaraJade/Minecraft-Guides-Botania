@@ -23,6 +23,6 @@ This flower will absorb TNT blasts and generate a huge amount of Mana practicall
 
 ![](Entropinnyum.jpg)
 
-https://youtu.be/M07Fabjw1kg
+[https://youtu.be/M07Fabjw1kg](https://youtu.be/M07Fabjw1kg)
 
 To automate this flower does require further research into Botania, for late-game its perfect and can be a great source of mana, play around with this with caution.
