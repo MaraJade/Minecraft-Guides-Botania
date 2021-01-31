@@ -28,3 +28,9 @@ Arcaratus
 Reddit - Thank you!
 
 Botania Discord: [https://vazkii.us/discord](https://vazkii.us/discord)
+
+### Contributors
+Tiyth
+Resources
+FTB Wiki: [https://ftbwiki.org/](https://ftbwiki.org/)
+FTB Gamepedia: https://ftb.gamepedia.com/[](https://ftb.gamepedia.com/)
