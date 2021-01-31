@@ -18,4 +18,4 @@ restaurant:
     priceRange: $
 ---
 
-Your page content goes here.
+These advanced generating flowers can be made with some of the runes you now have access to, some of these can be automated and some of these generate more Mana.
