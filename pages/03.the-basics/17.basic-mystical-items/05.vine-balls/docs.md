@@ -16,7 +16,11 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+media_order: vineballs.jpg
 ---
 
 When thrown against a wall these will create a climbable ladder. These can be used in combination with the Livingwood slingshot, this will cause the Vine Balls to ignore gravity allowing you to shoot these almost anywhere.
 
+![](vineballs.jpg)
+
+ 
