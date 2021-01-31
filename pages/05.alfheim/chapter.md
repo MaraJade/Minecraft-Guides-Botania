@@ -1,8 +1,7 @@
 ---
 title: Alfheim
 taxonomy:
-    category:
-        - docs
+    category: docs
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
@@ -18,4 +17,5 @@ restaurant:
     priceRange: $
 ---
 
+# Alfheim
 Mana Steel and Terra Steel are only the start of Botania, there are more fantastical items to discover!
