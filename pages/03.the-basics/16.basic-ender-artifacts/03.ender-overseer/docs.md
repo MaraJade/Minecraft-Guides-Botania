@@ -19,3 +19,5 @@ restaurant:
 ---
 
 Emits a Redstone signal when the player looks directly at it.
+
+![](Ender%20Overseer.jpg)
