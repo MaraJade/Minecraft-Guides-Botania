@@ -16,6 +16,9 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+media_order: 'Rosa Arcana.jpg'
 ---
 
 The Rosa Arcana will absorb Mana from experience orbs on the ground, it will generate more Mana from the players experience than from experience orbs on the ground.
+
+![](Rosa%20Arcana.jpg)
