@@ -16,6 +16,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+media_order: endoflame.jpg
 ---
 
 The Endoflame will produce mana when any burnable materials are dropped within its range, the Endoflame will burn anything that can be burned within a furnace apart from items that produce a by-product such as Lava Buckets (buckets being the by-product). The Endoflame will Consume any burnable material 1 at a time so throwing down lots of Coal will not speed up the process and could lead to coal despawning. 
@@ -35,3 +36,10 @@ Next, add a Lever onto the Open Crate and a Hopper attached to the Open Crate.
 
 Fill the hopper with Coal (or any fuel of your choosing).
 
+![](endoflame.jpg)
+
+This will cause One coal to drop, the Endoflame to Eat the coal and burn it, another coal will drop but will not despawn, once the Endoflame is done with the first bit of coal it will eat the next one on the ground. This will continue forever until you run out of coal or when the Mana Pool, Mana Spreader and Endoflame are all FULL. 
+
+It's a good idea to move the Mana from the Mana Pool where the Endoflame is located if you are off mining or exploring the world as these can fill rather quickly.
+
+This setup is probably used by most people as their first automated Mana generation set up and as long as you keep an eye on it then it will always generate Mana. You can expand this set up with more Endoflames and Mana Pools.
