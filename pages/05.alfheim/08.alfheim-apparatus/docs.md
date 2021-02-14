@@ -30,7 +30,7 @@ Two minutes after placing it will turn into a baby animal.
 
 Up to 20 Chorus Fruit can be given to the cocoon to give it a chance to spawn a Shulker instead of an animal. Emeralds will cause it to spawn a baby Villager instead. Each item will increase the chance by 5%.
 
-### Alchemy Catalyst
+### Conjuration Catalyst
 Previously we have put a simple Alchemy Catalyst below a mana pool to enable us to get different items when throwing stuff into the Mana Pool. With this upgraded catalyst you are able double some items when they are thrown into the Mana Pool:
 
 * Redstone
